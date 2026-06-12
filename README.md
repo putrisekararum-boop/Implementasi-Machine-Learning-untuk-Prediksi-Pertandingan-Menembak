@@ -1,0 +1,2 @@
+# Implementasi-Machine-Learning-untuk-Prediksi-Pertandingan-Menembak
+Proyek UAS Kecerdasan Buatan dengan implementasi algoritma **Random Forest Classifier** untuk memprediksi hasil pertandingan menembak. Model menggunakan parameter akurasi tembakan, waktu reaksi, jarak target, dan tembakan tepat sasaran untuk mengklasifikasikan hasil menjadi Menang atau Kalah. Dibuat menggunakan Python dan Scikit-Learn.
